@@ -30,6 +30,7 @@ const http = require('http');
 
 //----------------------------URL-------------------------------------------
 const url = require('url');
+const slugify = require('slugify');
 
 const replaceTemplate = (temp,product)=>{
     let output=temp.replace(/{%PRODUCTNAME%}/g,product.productName);

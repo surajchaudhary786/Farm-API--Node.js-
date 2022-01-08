@@ -1,0 +1,23 @@
+{
+  "name": "farm-api_dynamic",
+  "version": "1.0.0",
+  "description": "first Backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajchaudhary786/Farm-API--Node.js-.git"
+  },
+  "author": "Suraj Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajchaudhary786/Farm-API--Node.js-/issues"
+  },
+  "homepage": "https://github.com/surajchaudhary786/Farm-API--Node.js-#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "slugify": "^1.6.5"
+  }
+}
